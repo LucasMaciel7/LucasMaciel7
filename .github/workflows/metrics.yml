@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
          # Options
-          user: mateusfg7
+          user: LucasMaciel7
           template: classic
           
           config_display: large
@@ -35,7 +35,7 @@ jobs:
           # repositories_forks: yes
           repositories: 78
           repositories_affiliations: owner, collaborator
-          commits_authoring: Mateus Felipe Gonçalves, Mateus Felipe, mateusfg7, mateusfg7@users.noreply.github.com
+          commits_authoring: Lucas Maciel Campos, Lucas Maciel, LucasMaciel7, lucasmacielcampos27@gmail.com
           
           plugin_lines: yes
           plugin_lines_history_limit: 3
